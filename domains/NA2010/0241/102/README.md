@@ -19,7 +19,7 @@
 |12|RES-QLSL-O3|Net Quasi-Laminar Sublayer Resistance for Soil  Pathway, s cm-1, 0.001, -9|MD, PCT, 50|
 |13|RES-QLLC-O3|Net Quasi-Laminar Sublayer Resistance for Lower Canopy Pathway, s cm-1, 0.001, -9|MD, PCT, 50|
 |14|RES-CONV-O3|Net Within-Canopy Buoyant Convection Resistance, s cm-1, 0.001, -9|MD, PCT, 50|
-|15|DFLX-LCAN-O3|Net Flux via Lower Canopy Pathway, eq ha-1, 0.0001, -9|M, INT|
-|16|DFLX-ST-O3|Net Flux via Stomatal Pathway, eq ha-1, 0.0001, -9|M, INT|
-|17|DFLX-CUT-O3|Net Flux via Cuticle Pathway, eq ha-1, 0.0001, -9|M, INT|
-|18|DFLX-SOIL-O3|Net Flux via Soil Pathway, eq ha-1, 0.0001, -9|M, INT|
+|15|DFLX-LCAN-O3|Net Flux via Lower Canopy Pathway, g ha-1, 0.0001, -9|M, INT|
+|16|DFLX-ST-O3|Net Flux via Stomatal Pathway, g ha-1, 0.0001, -9|M, INT|
+|17|DFLX-CUT-O3|Net Flux via Cuticle Pathway, g ha-1, 0.0001, -9|M, INT|
+|18|DFLX-SOIL-O3|Net Flux via Soil Pathway, g ha-1, 0.0001, -9|M, INT|
